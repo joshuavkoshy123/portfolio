@@ -10,6 +10,8 @@
 
 Created a data visualization in **Tableau** analyzing housing data from major U.S metropolitan areas in August 2023. Through this analysis, I was able to determined relationships between various factors including house price, income, and mortgage. This study led to several important conclusions. I determined that housing prices were strongly correlated to geography, with higher house prices in the North East and West Coast, and lower prices in the Midwest and South, much as expected. The seven highest prices came from cities in California, followed by Washington, New York, and Massachusetts. More suprising insights came from studying the increase in the annual income required to afford a median-priced home from the previous year (2022). I found that this data did not correlate to the cities with the highest house prices. In fact, the top ten percentage increases came from all different states, with many from the Midwest and South, including Tenessee, Texas, and Florida. Overall, this data revealed that while the highest house prices come from the historically "expensive" regions in the North East and West Coast, much of the housing price increase comes from the generally "affordable" areas including Texas and Florida.
 
+(/img/Tableau_Project.png)
+
 ## Awards and Certifications
 - Phi Thetta Kappa Membership
 - MTA: Introduction to Programming Using Java, 2021
