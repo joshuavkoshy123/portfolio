@@ -12,6 +12,9 @@ Created a data visualization in **Tableau** analyzing housing data from major U.
 
 ![Home Affordability](/img/Tableau_Project.png)
 
+### Food Access Across Various Demographics and Counties in Maine
+
+
 ## Awards and Certifications
 - Phi Thetta Kappa Membership
 - MTA: Introduction to Programming Using Java, 2021
