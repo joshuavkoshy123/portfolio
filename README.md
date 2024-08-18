@@ -17,6 +17,8 @@ Created a data visualization in **Tableau** analyzing housing data from major U.
 
 Research paper on low access to grocery stores in Maine, measured across counties and demographics. The data analysis and visualizations were made using **Python** Libraries in **Juptier Notebook** on the dataset "Food Environment Atlas" from the U.S Department of Agriculture. I was able to find counties in which store access has decreased over time and demographics with low store access.
 
+![Food Access](/img/Low Access to Store Population in Maine (with percent change).png)
+
 ## Awards and Certifications
 - Phi Thetta Kappa Membership
 - MTA: Introduction to Programming Using Java, 2021
