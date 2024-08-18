@@ -13,7 +13,7 @@ Created a data visualization in **Tableau** analyzing housing data from major U.
 ![Home Affordability](/img/Tableau_Project.png)
 
 ### Food Access Across Various Demographics and Counties in Maine
-<a href="/Food Access Across Various Demographics and Counties in Maine/Food Access Across Various Demographics and Counties in Maine.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+<a href="/Food Access Across Various Demographics and Counties in Maine/Food Access Across Various Demographics and Counties in Maine.pdf" target="_blank">Paper</a>
 
 ## Awards and Certifications
 - Phi Thetta Kappa Membership
