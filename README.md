@@ -1,4 +1,4 @@
-# Computer Science Student at the University of Texas at Dallas
+# CS Student at UTD
 
 #### Technical Skills: Java, Python, SQL, Numpy, Scipy, Pandas, Matplotlib, HTML/CSS, Tableau, Microsoft Office
 
