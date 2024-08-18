@@ -15,7 +15,7 @@ Created a data visualization in **Tableau** analyzing housing data from major U.
 ![Home Affordability](/img/Tableau_Project.png)
 
 ### Food Access Across Various Demographics and Counties in Maine
-<a href="joshuavkoshy123.github.io/portfolio/Food Access Across Various Demographics and Counties in Maine/Food Access Across Various Demographics and Counties in Maine.pdf" target="_blank">Paper</a>
+[Paper](/Food_Access_Across_Various_Demographics_and_Counties_in_Maine/Food_Access_Across_Various_Demographics_and_Counties_in_Maine.pdf)
 
 Research paper on low access to grocery stores in Maine, measured across counties and demographics. The data analysis and visualizations were made using **Python** Libraries in **Jupiter Notebook** on the dataset "Food Environment Atlas" from the U.S Department of Agriculture. I was able to find counties in which store access has decreased over time and demographics with low store access.
 
