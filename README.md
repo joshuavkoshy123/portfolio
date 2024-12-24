@@ -26,6 +26,8 @@ Research paper on low access to grocery stores in Maine, measured across countie
 
 **Flask** web application that aggregates and displays news articles retrieved from the **News API**. Designed an interactive and user-friendly frontend using **HTML**, **CSS (Bootstrap)**, and **JavaScript**, featuring modals, article cards, and a save feature for bookmarking articles. Developed a **Python** backend to fetch and process data from the News API, with sorting and filtering options for enhanced user experience.
 
+![Webpage](/img/News_Aggregator.png)
+
 ## Awards and Certifications
 - Phi Thetta Kappa Membership
 - MTA: Introduction to Programming Using Java, 2021
