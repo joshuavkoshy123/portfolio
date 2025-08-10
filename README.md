@@ -1,6 +1,8 @@
 # CS Student at UTD
 
-#### Technical Skills: Java, Python, SQL, Numpy, Scipy, Pandas, Matplotlib, HTML/CSS, Tableau, Microsoft Office
+#### Competencies: Testing, Dependency Injection, API Development, CI/CD
+#### Programming Languages: C#, Java, Python, JavaScript (Vue and React), SQL
+#### Technologies: Microsoft Azure, Terraform, JFrog Artifactory, Git/GitHub, CosmosDB, PostgreSQL, MySQL
 
 ## Education
 - B.S., Computer Science | The University of Texas at Dallas (_2024-Present_)
