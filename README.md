@@ -8,6 +8,11 @@
 - B.S., Computer Science | The University of Texas at Dallas (_2024-Present_)
 - A.S., Computer Science | Dallas College (_2021-Present_)
 
+## Experience
+### GM Financial - Software Development Engineer Intern (_May 2025-August 2025_)
+
+### UTD EPICS - Hope Restored Missions (_January 2025-May 2025_)
+
 ## Projects
 ### Analyzed Housing Data to Determine Market Trends in Major Metropolitan Cities
 [Data Visualization](https://public.tableau.com/views/HomeAffordability_17234935713680/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
