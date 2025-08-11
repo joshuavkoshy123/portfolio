@@ -21,6 +21,8 @@ To conclude, this internship experience was truly unforgettable. I learned more 
 
 ### UTD EPICS - Hope Restored Missions (_January 2025-May 2025_)
 
+EPICS (Engineering Projects in Community Service) is a semester long course that gives students the opportunity to help a local non-profit solve a challenge they are facing and make a real impact in the community. I had the opportunity to work with a non-profit group called Hope Restored Missions which helps homeless and underprivileged individuals in the DFW area by providing them with shelter, clothing, and other aid. My group was tasked with developing an inventory tracking software system to allow them to keep track of the inflow/outflow of their inventory items. To do this, we created a PostgreSQL database and a modern and simple UI with Vue JS for staff to easily add, remove, update, and find inventory items. This would in turn help staff to better manage their inventory and improve efficiency of operations.
+
 ## Projects
 ### Analyzed Housing Data to Determine Market Trends in Major Metropolitan Cities
 [Data Visualization](https://public.tableau.com/views/HomeAffordability_17234935713680/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
