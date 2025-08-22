@@ -50,7 +50,7 @@ Research paper on low access to grocery stores in Maine, measured across countie
 ### MarketPulse
 [View the website here!](https://market-pulse-sooty.vercel.app/)
 
-[Code Repository: ](https://github.com/joshuavkoshy123/MarketPulse)
+[Code Repository](https://github.com/joshuavkoshy123/MarketPulse)
 
 MarketPulse is a financial hub of knowledge to stay on top of stocks and trends in the financial market. I collaborated with a group of 5 students to build a **React** web application that tracks up-to-date financial news and stock information, utilizing NewsAPI for articles and FinnHub's API for stock information. The backend is supported by a **Firebase** database, which enables users to login/sign-up and save articles and stockes to their favorites list.
 
