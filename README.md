@@ -26,6 +26,26 @@ To conclude, this internship experience was truly unforgettable. I learned more 
 EPICS (Engineering Projects in Community Service) is a semester long course that gives students the opportunity to help a local non-profit solve a challenge they are facing and make a real impact in the community. I had the opportunity to work with a non-profit group called Hope Restored Missions which helps homeless and underprivileged individuals in the DFW area by providing them with shelter, clothing, and other aid. My group was tasked with developing an inventory tracking software system to allow them to keep track of the inflow/outflow of their inventory items. To do this, we created a **PostgreSQL** database and a modern and simple UI with **Vue JS** for staff to easily add, remove, update, and find inventory items. This would in turn help staff to better manage their inventory and improve efficiency of operations.
 
 ## Projects
+
+### MarketPulse
+[View the website here!](https://market-pulse-sooty.vercel.app/)
+
+[Code Repository](https://github.com/joshuavkoshy123/MarketPulse)
+
+MarketPulse is a financial hub of knowledge to stay on top of stocks and trends in the financial market. I collaborated with a group of 5 students to build a **React** web application that tracks up-to-date financial news and stock information, utilizing NewsAPI for articles and FinnHub's API for stock information. The backend is supported by a **Firebase** database, which enables users to login/sign-up and save articles and stockes to their favorites list.
+
+### Automated Job Scraper and Alert System
+[Code Repository](https://github.com/joshuavkoshy123/job_scraper)
+
+Python script which scrapes relevant job listings from Google Jobs unsing **Selenium** and **BeautifulSoup**. The script then scores the listings based on how they match against the user's skills and competencies. Additionally, it integrates the Gmail API to send automated job alerts via email.
+
+### News Aggregator Web Application
+[View my website here!](https://news-aggregator-app-nddm.onrender.com/)
+
+**Flask** web application that aggregates and displays news articles retrieved from the **News API**. Designed an interactive and user-friendly frontend using **HTML**, **CSS (Bootstrap)**, and **JavaScript**, featuring modals, article cards, and a save feature for bookmarking articles. Developed a **Python** backend to fetch and process data from the News API, with sorting and filtering options for enhanced user experience.
+
+![Webpage](/img/News_Aggregator.png)
+
 ### Analyzed Housing Data to Determine Market Trends in Major Metropolitan Cities
 [Data Visualization](https://public.tableau.com/views/HomeAffordability_17234935713680/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
@@ -39,20 +59,6 @@ Created a data visualization in **Tableau** analyzing housing data from major U.
 Research paper on low access to grocery stores in Maine, measured across counties and demographics. The data analysis and visualizations were made using **Python** Libraries in **Jupiter Notebook** on the dataset "Food Environment Atlas" from the U.S Department of Agriculture. I was able to find counties in which store access has decreased over time and demographics with low store access.
 
 ![Food Access](/img/Low_Access_to_Store_Population_in_Maine.png)
-
-### News Aggregator Web Application
-[View my website here!](https://news-aggregator-app-nddm.onrender.com/)
-
-**Flask** web application that aggregates and displays news articles retrieved from the **News API**. Designed an interactive and user-friendly frontend using **HTML**, **CSS (Bootstrap)**, and **JavaScript**, featuring modals, article cards, and a save feature for bookmarking articles. Developed a **Python** backend to fetch and process data from the News API, with sorting and filtering options for enhanced user experience.
-
-![Webpage](/img/News_Aggregator.png)
-
-### MarketPulse
-[View the website here!](https://market-pulse-sooty.vercel.app/)
-
-[Code Repository](https://github.com/joshuavkoshy123/MarketPulse)
-
-MarketPulse is a financial hub of knowledge to stay on top of stocks and trends in the financial market. I collaborated with a group of 5 students to build a **React** web application that tracks up-to-date financial news and stock information, utilizing NewsAPI for articles and FinnHub's API for stock information. The backend is supported by a **Firebase** database, which enables users to login/sign-up and save articles and stockes to their favorites list.
 
 ## Awards and Certifications
 - Phi Thetta Kappa Membership
