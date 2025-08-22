@@ -1,7 +1,7 @@
 # CS Student at UTD
 
 #### Competencies: Testing, Dependency Injection, API Development, CI/CD
-#### Programming Languages: C#, Java, Python, JavaScript (Vue and React), SQL
+#### Programming Languages: C#, Java, Python, JavaScript (Vue and React), SQL, Selenium
 #### Technologies: Microsoft Azure, Terraform, JFrog Artifactory, Git/GitHub, CosmosDB, PostgreSQL, MySQL
 
 ## Education
