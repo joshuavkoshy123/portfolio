@@ -9,6 +9,19 @@
 - A.S., Computer Science | Dallas College (_2021-Present_)
 
 ## Experience
+### GM Financial - Software Development Engineer Intern (_May 2026-August 2026_)
+
+Over this 12-week returning internship with GM Financial, I gained hands-on experience with full-stack development in a corporate environment. I had the privilege to work directly with exciting tools and languages including **React**, **TypeScript**, and **.NET**. I continued to receive exposure to cloud services through Azure this summer such as **App Services**, **CosmosDB**, and **Blob Storage**. I also had the privilege to provision/configure many of these resources with **Terraform**.
+
+In this internship, I developed Spotlight, an internal support tool designed to enable technical or business users to understand and debug application errors more efficiently. It's primary features include:
+  - **Helix Application Flow:** Spotlight traces the flow of events an application passes through the Helix application decisioning system. Events are color-coded to indicate which events were reached and where processing ended for the application. Additionally, Spotlight supports alternative event flows based on the application type (New, Analyst Update, or Dealer Update). The event flow was built using the popular **Reactflow** library.
+  - **Application Event Details and Payloads:** Spotlight presents further application details for processed events. This includes valuable information like the Event Name, Event Time, and full Event Message. Additionally, relevant events contain corresponding application payloads, which are sanitized to protect sensitive customer PII data. These payloads enable further investigation and deeper root-cause analysis.
+  - **Application Status and KPIs:** Spotlight also displays valuable application status information, color-coded based on where errors occurred in the event flow. Applications with errors also clearly display error logs and status codes to aid debugging. In addition, Spotlight provides some very valuable performance metrics including the total processing time of the application, and event durations to identify bottlenecks in the Helix event flow.
+
+Through these features, Spotlight provides a unified interface which empowers teams to speed-up root cause analysis, remove bottlenecks in performance, and improve the overall customer experience.
+
+To conclude, this internship was an unforgettable experience. I learned more than I ever imagined and grew both personally and professionally. This experience helped me to become a more well-rounded software developer, setting a strong foundation for the rest of my career.
+
 ### GM Financial - Software Development Engineer Intern (_May 2025-August 2025_)
 
 Over this 12-week internship with GM Financial, I gained hands-on experience as a software developer in a corporate environment. I had the privilege to work directly with **CI/CD** processes and engage with the dev-ops lifecycle. I also received firsthand exposure to the cloud through the companies heavy use of Microsoft Azure. Through **Azure DevOps**, I was able to contribute to the teams codebase through code repositories and pipelines, which built and packaged our code to **JFrog Artifactory**. Additionally, I'm grateful for the opportunity to work with the powerful IaC tool **Terraform**, which enabled me to provision Azure resources, including an **App Service** and multiple **CosmosDB** containers.
