@@ -1,8 +1,9 @@
 # CS Student at UTD
 
-#### Competencies: Testing, Dependency Injection, API Development, CI/CD
-#### Programming Languages: C#, Java, Python, JavaScript (Vue and React), SQL, Selenium
-#### Technologies: Microsoft Azure, Terraform, JFrog Artifactory, Git/GitHub, CosmosDB, PostgreSQL, MySQL
+### Languages: C#, Java, Python, C++, HTML, CSS, JavaScript 
+### Frameworks & Libraries: React, Vue.js, Flask, Selenium, Spring Boot 
+### Technologies: Microsoft Azure, Terraform, Docker, GitHub Actions, JFrog Artifactory, Git/GitHub, PostgreSQL, MySQL
+### Competencies: Software Testing, Dependency Injection, API Development, CI/CD
 
 ## Education
 - B.S., Computer Science | The University of Texas at Dallas (_2024-Present_)
@@ -50,7 +51,7 @@ MarketPulse is a financial hub of knowledge to stay on top of stocks and trends 
 ### Automated Job Scraper and Alert System
 [Code Repository](https://github.com/joshuavkoshy123/job_scraper)
 
-Python script which scrapes relevant job listings from Google Jobs unsing **Selenium** and **BeautifulSoup**. The script then scores the listings based on how they match against the user's skills and competencies. Additionally, it integrates the Gmail API to send automated job alerts via email.
+Python script which scrapes relevant job listings from Google Jobs using **Selenium** and **BeautifulSoup**. The script then scores the listings based on how they match against the user's skills and competencies. Additionally, it integrates the Gmail API to send automated job alerts via email.
 
 ### News Aggregator Web Application
 [View my website here!](https://news-aggregator-app-nddm.onrender.com/)
