@@ -1,9 +1,9 @@
 # CS Student at UTD
 
-### Languages: C#, Java, Python, C++, HTML, CSS, JavaScript 
-### Frameworks & Libraries: React, Vue.js, Flask, Selenium, Spring Boot 
-### Technologies: Microsoft Azure, Terraform, Docker, GitHub Actions, JFrog Artifactory, Git/GitHub, PostgreSQL, MySQL
-### Competencies: Software Testing, Dependency Injection, API Development, CI/CD
+#### Languages: C#, Java, Python, C++, HTML, CSS, JavaScript 
+#### Frameworks & Libraries: React, Vue.js, Flask, Selenium, Spring Boot 
+#### Technologies: Microsoft Azure, Terraform, Docker, GitHub Actions, JFrog Artifactory, Git/GitHub, PostgreSQL, MySQL
+#### Competencies: Software Testing, Dependency Injection, API Development, CI/CD
 
 ## Education
 - B.S., Computer Science | The University of Texas at Dallas (_2024-Present_)
